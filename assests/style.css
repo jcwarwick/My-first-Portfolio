@@ -35,6 +35,12 @@ nav ul a{
     text-decoration: none;
     color: white;
 }
+nav ul:hover{
+    border-style: solid,;
+    border:10px, black;
+    text-decoration:underline;
+
+}
 
 #aboutme{
     font-size: larger;
@@ -64,6 +70,7 @@ nav ul a{
 .resize{
     width: 300px;
 }
+ 
 
 footer{
     background: linear-gradient(white, rgba(64, 112, 64, 0.831));
