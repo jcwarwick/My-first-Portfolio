@@ -69,8 +69,11 @@ nav ul:hover{
 
 .resize{
     width: 300px;
+    background-size: cover;
 }
- 
+#imgrestyle{
+    width: 400px;
+}
 
 footer{
     background: linear-gradient(white, rgba(64, 112, 64, 0.831));
